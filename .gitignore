@@ -1,0 +1,7 @@
+# Archivos temporales de las herramientas de diseño y vista previa
+.claude/
+.superpowers/
+
+# Sistema
+.DS_Store
+Thumbs.db
