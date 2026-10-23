@@ -18,9 +18,13 @@ Institucional, amigable y sencillo de visualizar (palabras del cliente). Voseo c
 - Legible para cualquier edad y con poca luz: texto grande, buen contraste, botones cómodos de tocar.
 
 ## Anti-referencias
-- Plantilla universitaria fría (azul marino y dorado).
+- Plantilla universitaria fría (azul marino y dorado genéricos).
 - Look de "app de IA": degradados en texto, tarjetas idénticas, íconos en círculos sobre cada título.
 - Promesas que el documento no hace (resultados garantizados, becas, validez de títulos).
 
 ## Estado de la marca
-No hay logo, colores ni fotos entregados. El logo es provisional (texto "El Roble" con un árbol simple) y debe poder reemplazarse sin tocar el resto.
+Nombre oficial: **Academia Roble, Bachillerato por Madurez** (en los textos del documento se abrevia "el Roble"). El cliente entregó el logo oficial (escudo con bellota, hojas de roble y raíces) en versiones horizontal con lema, vertical y horizontal sin lema, en color, blanco y negro.
+
+Colores oficiales del logo: vino `#86211C`, ámbar `#D28120`, arena `#DEB17E` y carbón `#221F1F`. El sitio usa esta paleta (antes del logo se había aprobado una de verde azulado y coral, ya reemplazada).
+
+Aún no hay fotos.
