@@ -1,18 +1,20 @@
-/* El Roble · comportamiento de la página
+/* Roble · comportamiento de la página
    Sin librerías. El scroll suave lo hace el CSS (scroll-behavior). */
 (() => {
   'use strict';
 
   /* ==========================================================
-     CONFIGURACIÓN: este es el único lugar que hay que editar.
+     CONFIGURACIÓN de WhatsApp
      ----------------------------------------------------------
-     WHATSAPP_NUMBER: número de WhatsApp de El Roble con código
+     WHATSAPP_NUMBER: número de WhatsApp de Roble con código
      de país, solo dígitos, sin "+" ni espacios.
-     Ejemplo para Costa Rica: '50688887777'
-     Mientras tenga las "X", los botones abren WhatsApp sin número.
+     Hoy: +506 7077-1546.
+     Si el número cambia, cambialo aquí y también en los enlaces
+     de index.html (buscá 50670771546); esos enlaces solo se usan
+     si el navegador no ejecuta JavaScript.
      ========================================================== */
-  const WHATSAPP_NUMBER = '506XXXXXXXX';
-  const WHATSAPP_MESSAGE = 'Hola, quiero información sobre el Bachillerato por Madurez en El Roble.';
+  const WHATSAPP_NUMBER = '50670771546';
+  const WHATSAPP_MESSAGE = 'Hola, quiero información sobre el Bachillerato por Madurez de Roble.';
 
   const root = document.documentElement;
   const header = document.querySelector('[data-header]');
@@ -25,7 +27,7 @@
   function setupWhatsApp() {
     const valid = /^\d{8,15}$/.test(WHATSAPP_NUMBER);
     if (!valid) {
-      console.warn('[El Roble] Falta el número de WhatsApp: editá WHATSAPP_NUMBER en assets/js/main.js');
+      console.warn('[Roble] Número de WhatsApp inválido: revisá WHATSAPP_NUMBER en assets/js/main.js');
       return;
     }
     const href = 'https://wa.me/' + WHATSAPP_NUMBER + '?text=' + encodeURIComponent(WHATSAPP_MESSAGE);

@@ -398,6 +398,17 @@ a { color: inherit; }
 @media (min-width: 64rem) {
   .menu-toggle { display: none; }
   .primary-nav { display: flex; align-items: center; gap: var(--space-md); }
+  .primary-nav a { white-space: nowrap; }
+  .brand { flex: none; }
+}
+
+/* En laptops chicas el logo y el menú comparten poco espacio: se compacta el menú */
+@media (min-width: 64rem) and (max-width: 79.99rem) {
+  .primary-nav { gap: var(--space-sm); }
+  .primary-nav ul { gap: 0; }
+  .primary-nav a:not(.btn) { padding-inline: 0.6rem; }
+  .primary-nav a:not(.btn)::after { left: 0.6rem; right: 0.6rem; }
+  .primary-nav .btn { padding-inline: 1.1rem; }
 }
 
 /* ---------- Revelado al hacer scroll ---------- */
@@ -536,6 +547,25 @@ a { color: inherit; }
 }
 
 /* ---------- ¿Para quién? ---------- */
+/* Orden de la sección: título pequeño, texto de presentación y, al final, la frase grande */
+#para-quien .eyebrow { margin-bottom: 0; }
+#para-quien .lead {
+  max-width: 34ch;
+  font-size: clamp(1.25rem, 1.1rem + 0.8vw, 1.625rem);
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--ink);
+}
+.tagline {
+  margin-top: var(--space-2xs);
+  font-size: clamp(2rem, 1.4rem + 2.6vw, 3.5rem);
+  font-weight: 800;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  color: var(--wine-800);
+  text-wrap: balance;
+}
+
 .list-intro {
   margin-bottom: var(--space-sm);
   font-size: 0.8125rem;

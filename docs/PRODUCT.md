@@ -3,7 +3,7 @@
 register: brand
 
 ## Qué es
-Sitio de una sola página para **El Roble**, academia de preparación presencial para el **Bachillerato por Madurez Suficiente** (Ministerio de Educación Pública, Costa Rica). Funciona en las instalaciones de Yorkín School, Lomas de Ayarco, Curridabat, San José. Inicio previsto: noviembre de 2026. Mensualidad: ₡50.000. Clases de 6:00 p. m. a 9:00 p. m.
+Sitio de una sola página para **Roble**, academia de preparación presencial para el **Bachillerato por Madurez Suficiente** (Ministerio de Educación Pública, Costa Rica). Funciona en las instalaciones de Yorkín School, Lomas de Ayarco, Curridabat, San José. Inicio previsto: noviembre de 2026. Mensualidad: ₡50.000 por materia, por mes. Clases de 6:00 p. m. a 9:00 p. m. Contacto: WhatsApp +506 7077-1546 (número en `assets/js/main.js`, mensaje prellenado incluido).
 
 ## Quién lo usa
 Personas adultas (18 años o más, con noveno año aprobado) que trabajan de día y quieren retomar o completar el bachillerato. Llegan sobre todo desde el celular, muchas veces después de ver una publicación en redes sociales. La acción que importa: escribir por WhatsApp ("Quiero información").
@@ -12,7 +12,7 @@ Personas adultas (18 años o más, con noveno año aprobado) que trabajan de dí
 Institucional, amigable y sencillo de visualizar (palabras del cliente). Voseo costarricense, frases cortas, sin tecnicismos. Que se sienta como una institución seria, pero cercana: "No tenés que hacerlo solo".
 
 ## Principios
-- Todo el contenido sale del documento "Solicitud academia bachillerato por madurez" (sección A. Página web). No se inventan datos: no hay teléfono, correo, redes ni fotos reales todavía.
+- Todo el contenido sale del documento "Solicitud academia bachillerato por madurez" (sección A. Página web). No se inventan datos: no hay correo, redes ni fotos reales todavía. Los textos dicen solo "Roble", nunca "El Roble" (pedido del cliente).
 - Una sola página con scroll suave. Menú siempre visible; cada opción lleva directo a su sección (referencia: plantilla "Academy" de uiCookies).
 - Un solo llamado a la acción repetido con calma: Quiero información (WhatsApp).
 - Legible para cualquier edad y con poca luz: texto grande, buen contraste, botones cómodos de tocar.
@@ -23,7 +23,7 @@ Institucional, amigable y sencillo de visualizar (palabras del cliente). Voseo c
 - Promesas que el documento no hace (resultados garantizados, becas, validez de títulos).
 
 ## Estado de la marca
-Nombre oficial: **Academia Roble, Bachillerato por Madurez** (en los textos del documento se abrevia "el Roble"). El cliente entregó el logo oficial (escudo con bellota, hojas de roble y raíces) en versiones horizontal con lema, vertical y horizontal sin lema, en color, blanco y negro.
+El logo dice **Academia Roble, Bachillerato por Madurez**; en los textos del sitio el nombre es solo **Roble**. El cliente entregó el logo oficial (escudo con bellota, hojas de roble y raíces) en versiones horizontal con lema, vertical y horizontal sin lema, en color, blanco y negro.
 
 Colores oficiales del logo: vino `#86211C`, ámbar `#D28120`, arena `#DEB17E` y carbón `#221F1F`. El sitio usa esta paleta (antes del logo se había aprobado una de verde azulado y coral, ya reemplazada).
 
