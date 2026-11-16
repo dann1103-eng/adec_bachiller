@@ -3,7 +3,7 @@
 register: brand
 
 ## Qué es
-Sitio de una sola página para **Roble**, academia de preparación presencial para el **Bachillerato por Madurez Suficiente** (Ministerio de Educación Pública, Costa Rica). Funciona en las instalaciones de Yorkín School, Lomas de Ayarco, Curridabat, San José. Inicio previsto: noviembre de 2026. Mensualidad: ₡50.000 por materia, por mes. Clases de 6:00 p. m. a 9:00 p. m. Contacto: WhatsApp +506 7077-1546 (número en `assets/js/main.js`, mensaje prellenado incluido).
+Sitio de una sola página para **Roble**, academia de preparación presencial para el **Bachillerato por Madurez Suficiente** (Ministerio de Educación Pública, Costa Rica). Funciona en las instalaciones de Yorkín School, Lomas de Ayarco, Curridabat, San José. Inicio previsto: noviembre de 2026. Mensualidad: ₡25.000 por materia, por mes. Clases de 6:00 p. m. a 9:00 p. m. Contacto: WhatsApp +506 7077-1546 (número en `assets/js/main.js`, mensaje prellenado incluido).
 
 ## Quién lo usa
 Personas adultas (18 años o más, con noveno año aprobado) que trabajan de día y quieren retomar o completar el bachillerato. Llegan sobre todo desde el celular, muchas veces después de ver una publicación en redes sociales. La acción que importa: escribir por WhatsApp ("Quiero información").
